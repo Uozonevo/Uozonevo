@@ -4,7 +4,7 @@ My name is Udoka and I am a Computer/Electrical Engineer looking to explore the 
 ## My Skills 💁‍♀️
 - `C/C++`
 - `C#`
-- `Python` (needs improvement)
+- `Python` for my Raspberry PI projects
 - `Verilog/VHDL` for FPGA design and implementations
 ## What I would like to work on 👷‍♀️
 - Embedded System using C :electron:
