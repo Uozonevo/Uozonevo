@@ -1,12 +1,12 @@
 # About Me 👋
 My name is Udoka and I am a Computer/Electrical Engineer looking to explore the intersection between embedded systems and cybersecurity. This is my github purely for learning purposes and to have some practice on what I know.
 
-## My Skills 💁‍♀️
+## My Skills at the start of my career 💁‍♀️
 - `C/C++`
 - `C#`
 - `Python` for my Raspberry PI projects
 - `Verilog/VHDL` for FPGA design and implementations
-## What I would like to work on 👷‍♀️
+## What I like to work on now 👷‍♀️
 - Embedded System using C :electron:
 - Firmware 💻
 - Networking fundamentals 🕸️
