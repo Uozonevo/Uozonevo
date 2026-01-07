@@ -1,3 +1,5 @@
+![cyber-security-concept-digital-art](https://github.com/user-attachments/assets/15cafa48-ef16-4d1c-b851-03d8c88db378)
+
 # About Me 👋
 My name is Udoka and I am a Computer/Electrical Engineer looking to explore the intersection between embedded systems and cybersecurity. This is my github purely for learning purposes and to have some practice on what I know.
 
@@ -7,6 +9,7 @@ My name is Udoka and I am a Computer/Electrical Engineer looking to explore the 
 - `Python` for my Raspberry PI projects
 - `Verilog/VHDL` for FPGA design and implementations
 ## What I like to work on now 👷‍♀️
+
 - Embedded System using C :electron:
 - Firmware 💻
 - Networking fundamentals 🕸️
