@@ -1,20 +1,27 @@
 ![cyber-security-concept-digital-art](https://github.com/user-attachments/assets/15cafa48-ef16-4d1c-b851-03d8c88db378)
 
-# About Me 👋
+# 🫰 About Me 
 My name is Udoka and I am a Computer/Electrical Engineer looking to explore the intersection between embedded systems and cybersecurity. This is my github purely for learning purposes and to have some practice on what I know.
 
-## My Skills at the start of my career 💁‍♀️
+## 💁‍♀️🌱 My Skills at the start of my career 
 - `C/C++`
 - `C#`
 - `Python` for my Raspberry PI projects
 - `Verilog/VHDL` for FPGA design and implementations
-## What I like to work on now 👷‍♀️
-
+## 👷‍♀️🔭 What I like to work on now 
 - Embedded System using C :electron:
 - Firmware 💻
 - Networking fundamentals 🕸️
 - Linux 🐧
 - Web development (for my website)
+
+## 🏗️ Building projects loading 
+- Robot Arm
+- Hexapod
+- Home Automation
+
+## Tech Stack
+[![Udoka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uozonevo)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Uozonevo/Uozonevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
