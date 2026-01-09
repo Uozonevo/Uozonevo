@@ -21,7 +21,7 @@ My name is Udoka and I am a Computer/Electrical Engineer looking to explore the 
 - Home Automation
 
 ## Tech Stack
-[![Udoka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uozonevo)](https://github.com/anuraghazra/github-readme-stats)
+[![Udoka's GitHub stats](https://github-readme-stats.vercel.app/api?username=uozonevo)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Uozonevo/Uozonevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
